@@ -1,5 +1,5 @@
 # Simple-yt-dlp-GUI
-A custom python GUI for [yt-dlp](https://github.com/yt-dlp/yt-dlp) with 4 basic modes: standard video, spliced video, mp3, and custom command.
+A custom python GUI for [yt-dlp](https://github.com/yt-dlp/yt-dlp) with 4 basic modes: standard video, video section, mp3, and custom command.
 
 How to use:
 1. Clone the repo
